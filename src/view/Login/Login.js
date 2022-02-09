@@ -8,6 +8,7 @@ function Login() {
 
   return (
     <Helmet title='Login'>
+        <h1>Login</h1>
         <div className='login'>
             <div className='header__login'>
                 <form className='form'>
